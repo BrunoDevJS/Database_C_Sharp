@@ -1,0 +1,15 @@
+C:\Users\Bruno VM\Desktop\Teste\TrabalhandoFiles\bin\Debug\net6.0\TrabalhandoFiles.exe
+C:\Users\Bruno VM\Desktop\Teste\TrabalhandoFiles\bin\Debug\net6.0\TrabalhandoFiles.deps.json
+C:\Users\Bruno VM\Desktop\Teste\TrabalhandoFiles\bin\Debug\net6.0\TrabalhandoFiles.runtimeconfig.json
+C:\Users\Bruno VM\Desktop\Teste\TrabalhandoFiles\bin\Debug\net6.0\TrabalhandoFiles.dll
+C:\Users\Bruno VM\Desktop\Teste\TrabalhandoFiles\bin\Debug\net6.0\TrabalhandoFiles.pdb
+C:\Users\Bruno VM\Desktop\Teste\TrabalhandoFiles\obj\Debug\net6.0\TrabalhandoFiles.csproj.AssemblyReference.cache
+C:\Users\Bruno VM\Desktop\Teste\TrabalhandoFiles\obj\Debug\net6.0\TrabalhandoFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno VM\Desktop\Teste\TrabalhandoFiles\obj\Debug\net6.0\TrabalhandoFiles.AssemblyInfoInputs.cache
+C:\Users\Bruno VM\Desktop\Teste\TrabalhandoFiles\obj\Debug\net6.0\TrabalhandoFiles.AssemblyInfo.cs
+C:\Users\Bruno VM\Desktop\Teste\TrabalhandoFiles\obj\Debug\net6.0\TrabalhandoFiles.csproj.CoreCompileInputs.cache
+C:\Users\Bruno VM\Desktop\Teste\TrabalhandoFiles\obj\Debug\net6.0\TrabalhandoFiles.dll
+C:\Users\Bruno VM\Desktop\Teste\TrabalhandoFiles\obj\Debug\net6.0\refint\TrabalhandoFiles.dll
+C:\Users\Bruno VM\Desktop\Teste\TrabalhandoFiles\obj\Debug\net6.0\TrabalhandoFiles.pdb
+C:\Users\Bruno VM\Desktop\Teste\TrabalhandoFiles\obj\Debug\net6.0\TrabalhandoFiles.genruntimeconfig.cache
+C:\Users\Bruno VM\Desktop\Teste\TrabalhandoFiles\obj\Debug\net6.0\ref\TrabalhandoFiles.dll
